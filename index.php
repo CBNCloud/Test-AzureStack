@@ -3,22 +3,18 @@
 </head>
 <body>
 <?php
-$host="localhost";
- 
-$database="coba";
- 
-$user="root";
- 
-$pass="12345";
- 
-$koneksi = new PDO("mysql:host=".$host.";dbname=".$database,$user,$pass);
+$host ="localhost";
+$username ="root";
+$password ="";
+$database ="test";
+$koneksi = mysql_connect($host,$username,$password);
 if($koneksi)
 {
-echo (“koneksi sukses”);
+echo ("koneksi database sukses");
 }
 else
 {
-echo (“koneksi gagal”);
+echo ("koneksi database gagal");
 }
 ?>
 </body>
