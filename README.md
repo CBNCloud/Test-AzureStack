@@ -34,7 +34,7 @@ Thank you for considering contributing to the Workshop Azure PHP!
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Microservices, please send an e-mail to Internal-Dev Cbncloud via [int-dev@cbncloud.co.id](mailto:int-dev@cbncloud.co.id). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Azure PHP, please send an e-mail to Internal-Dev Cbncloud via [int-dev@cbncloud.co.id](mailto:int-dev@cbncloud.co.id). All security vulnerabilities will be promptly addressed.
 
 ## License
 
