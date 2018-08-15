@@ -26,12 +26,12 @@ Azure App Service on Azure Stack is a platform-as-a-service (PaaS) offering of M
   </br></br>
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/git.png)
  
- - For Repository 		: https://github.com/CBNCloud/azure-php
- - Branch			: Master
- - Repository Type 		: Git
- 
+     - For Repository 		: https://github.com/CBNCloud/azure-php
+     - Branch			: Master
+     - Repository Type 		: Git
+   </br></br>
+   
  - You can see the one that was already be pulled from github
-
   </br></br>
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/editor.png)
  
