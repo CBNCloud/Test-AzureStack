@@ -7,7 +7,6 @@ Microsoft Azure Stack is a hybrid cloud platform that lets you provide Azure ser
     * [App Editor](#app-editor)
     * [Deployment Options](#deployment-options)
   * [Contributing](#contributing)
-  * [Security Vulnerabilities](#security-vulnerabilities)
   * [License](#license)
 <!--te-->
 
@@ -58,10 +57,6 @@ Azure App Service on Azure Stack is a platform-as-a-service (PaaS) offering of M
 ## Contributing
 
 Thank you for considering contributing to the Workshop Azure PHP!
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Azure PHP, please send an e-mail to Internal-Dev Cbncloud via [int-dev@cbncloud.co.id](mailto:int-dev@cbncloud.co.id). All security vulnerabilities will be promptly addressed.
 
 ## License
 
