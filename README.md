@@ -21,15 +21,24 @@ Microsoft Azure Stack is a hybrid cloud platform that lets you provide Azure ser
 Choose Deployment tools -> app service editor from your currently App Services dashboard
 
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/app%20service%20editor.png)
+ </br></br>
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/git.png)
  
- For Repository 		: https://github.com/CBNCloud/azure-php
- Branch			: Master
- Repository Type 		: Git
+ - For Repository 		: https://github.com/CBNCloud/azure-php
+ - Branch			: Master
+ - Repository Type 		: Git
 
 ## Deployment Options
 
-Choose Deployment Options from your currently App Services dashboard
+- Choose Deployment Options from your currently App Services dashboard
+![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/deployement.png)
+ </br></br>
+- Select Setup and choose source from External Repository and fill the repository url and choose Git as your repository type
+![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/external.png)
+ </br></br>
+ - Select Setup and choose source from External Repository and fill the repository url and choose Git as your repository type
+![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/external.png)
+ </br></br>
 
 
 ## Contributing
