@@ -1,3 +1,7 @@
+<p align="center"><img src="https://cloudacademy.com/blog/wp-content/uploads/2017/07/azurestack.png"></p>
+
+
+
 ## Introduction
 Microsoft Azure Stack is a hybrid cloud platform that lets you provide Azure services from your datacenter. Learn how to manage the Azure Stack integrated systems infrastructure and how to offer services with our quickstarts and tutorials.
 
