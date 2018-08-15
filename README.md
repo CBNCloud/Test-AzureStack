@@ -18,7 +18,7 @@ Azure App Service on Azure Stack is a platform-as-a-service (PaaS) offering of M
 
 ## App Editor
 
-Choose Deployment tools -> app service editor from your currently App Services dashboard
+Choose **Deployment tools** -> **app service editor** from your currently App Services dashboard
 
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/app%20service%20editor.png)
  </br></br>
@@ -30,7 +30,7 @@ Choose Deployment tools -> app service editor from your currently App Services d
 
 ## Deployment Options
 
-- Choose Deployment Options from your currently App Services dashboard
+- Choose **Deployment Options** from your currently App Services dashboard
  </br></br>
 ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/deployement.png)
  </br></br>
@@ -40,6 +40,10 @@ Choose Deployment tools -> app service editor from your currently App Services d
   </br></br>
 ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/choose.png)
  </br></br>
+ - Check your deployment status from git in deployment options menu from your app service dashboard
+  </br></br>
+![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/githus.png)
+
 
 
 ## Contributing
