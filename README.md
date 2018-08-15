@@ -34,11 +34,9 @@ Choose Deployment tools -> app service editor from your currently App Services d
  </br></br>
 ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/deployement.png)
  </br></br>
-- Select Setup and choose source from External Repository and fill the repository url and choose Git as your repository type
- </br></br>
-![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/external.png)
- </br></br>
- - Select Setup and choose source from External Repository and fill the repository url and choose Git as your repository type
+ - Select Setup and **choose source** from **External Repository** and fill the repository url and choose Git as your repository type
+  </br></br>
+  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/external.png)
   </br></br>
 ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/choose.png)
  </br></br>
