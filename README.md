@@ -3,7 +3,7 @@ Microsoft Azure Stack is a hybrid cloud platform that lets you provide Azure ser
 
 ## Table of contents
 <!--ts-->
-  * [Install](#install)
+  * [Paas](#pass)
     * [App Editor](#app-editor)
     * [Deployment Options](#deployment-options)
   * [Contributing](#contributing)
@@ -12,9 +12,9 @@ Microsoft Azure Stack is a hybrid cloud platform that lets you provide Azure ser
 <!--te-->
 
 
-## Install
+## Paas
 
-Microsoft Azure Stack is a hybrid cloud platform that lets you provide Azure services from your datacenter. Learn how to manage the Azure Stack integrated systems infrastructure and how to offer services with our quickstarts and tutorials.
+Azure App Service on Azure Stack is a platform-as-a-service (PaaS) offering of Microsoft Azure available to Azure Stack. The service lets your customers - internal or external - create web, API, and Azure Functions applications for any platform or device. They can integrate your apps with on-premises applications and automate their business processes. Azure Stack cloud operators can run customer apps on fully managed virtual machines (VMs), with their choice of shared VM resources or dedicated VMs
 
 ## App Editor
 
