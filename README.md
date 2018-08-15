@@ -1,5 +1,5 @@
 ## Introduction
-This is Workshop azure php, how to install please read documentation and Table of contents
+Microsoft Azure Stack is a hybrid cloud platform that lets you provide Azure services from your datacenter. Learn how to manage the Azure Stack integrated systems infrastructure and how to offer services with our quickstarts and tutorials.
 
 ## Table of contents
 <!--ts-->
@@ -18,14 +18,18 @@ Microsoft Azure Stack is a hybrid cloud platform that lets you provide Azure ser
 
 ## App Editor
 
-you can open this menu
+Choose Deployment tools -> app service editor from your currently App Services dashboard
 
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/app%20service%20editor.png)
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/git.png)
  
- You can enter an url the github
+ For Repository 		: https://github.com/CBNCloud/azure-php
+ Branch			: Master
+ Repository Type 		: Git
 
 ## Deployment Options
+
+Choose Deployment Options from your currently App Services dashboard
 
 
 ## Contributing
