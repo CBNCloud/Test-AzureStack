@@ -18,10 +18,11 @@ Azure App Service on Azure Stack is a platform-as-a-service (PaaS) offering of M
 
 ## App Editor
 
-Choose **Deployment tools** -> **app service editor** from your currently App Services dashboard
+- Choose **Deployment tools** -> **app service editor** -> **go** from your currently App Services dashboard
 
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/app%20service%20editor.png)
  </br></br>
+ - Please enter an url github
  ![Login Screenshot](https://github.com/CBNCloud/workshop-azure-php/blob/master/images/git.png)
  
  - For Repository 		: https://github.com/CBNCloud/azure-php
