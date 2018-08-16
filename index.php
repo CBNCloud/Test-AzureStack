@@ -54,7 +54,7 @@ hr {
     <img src="https://cbncloud.co.id/demo/img/php.png" style="height: 200px";>
     <hr>
     <!-- <p id="demo" style="font-size:30px"></p> -->
-    <p>Congratulation now you've successfully deploy PHP Web Apps in Azure Stack</p>
+    <p>You've successfully deployed Web App with PHP</p>
   </div>
   <div class="bottomleft">
     <!-- <p>Some text</p> -->
