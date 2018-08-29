@@ -7,7 +7,7 @@ body, html {
 }
 
 .bgimg {
-    background-image: url('https://cbncloud.co.id/demo/img/blue-dark.png');
+    background-image: url('https://cbncloud.co.id/demo/img/background-php.png');
     height: 100%;
     background-position: center;
     background-size: cover;
